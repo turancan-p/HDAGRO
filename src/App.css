@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+@media screen and (min-width: 1024px) {
+  #header-logo {
+    display: block;
+  }
+}
+
+.center {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
